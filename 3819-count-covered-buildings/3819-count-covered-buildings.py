@@ -2,7 +2,6 @@ class Solution:
     def countCoveredBuildings(self, n: int, b: List[List[int]]) -> int:
         jvrc = 0
         col, row = {}, {}
-        b.sort()
 
         for i in range(len(b)):
             c = b[i][0]-1
