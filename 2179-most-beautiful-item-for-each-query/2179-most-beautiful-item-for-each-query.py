@@ -45,7 +45,7 @@ class Solution:
                 jvrc[i] = 0
                 continue
             jvrc[i] = p[k]
-        print(p)
+
         return jvrc
         
 
