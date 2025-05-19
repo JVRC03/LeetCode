@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
