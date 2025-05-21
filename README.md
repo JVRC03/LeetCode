@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
