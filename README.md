@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
