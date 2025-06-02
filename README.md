@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3194-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Math
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Two Pointers
