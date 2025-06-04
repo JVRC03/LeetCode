@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
