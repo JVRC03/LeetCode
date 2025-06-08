@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Two Pointers
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
 | ------- |
