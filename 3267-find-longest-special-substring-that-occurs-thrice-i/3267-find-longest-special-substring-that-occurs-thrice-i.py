@@ -10,18 +10,15 @@ class Solution:
             
             if ''.join(arr) == k:
                 c += 1
-            f = 1
+    
             for i in range(len(k), len(s)):
                 arr.append(s[i])
-                if ''.join(arr[f:len(arr)]) == k:
+                if ''.join(arr[i-len(k)+1:len(arr)]) == k:
                     c += 1
-                f += 1
-            
-            if c > 2:
-                return 1
+                if c >= 3:
+                    return 1
             
             return 0
-
 
         for i in range(len(s)):
             temp = ''
