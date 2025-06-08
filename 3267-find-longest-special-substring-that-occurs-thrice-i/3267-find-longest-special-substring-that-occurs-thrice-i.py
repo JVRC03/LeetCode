@@ -3,17 +3,12 @@ class Solution:
         jvrc = -1
         def f(k):
             c = 0
-            arr = []
-
-            for i in range(len(k)):
-                arr.append(s[i])
             
-            if ''.join(arr) == k:
+            if s[0:len(k)] == k:
                 c += 1
     
             for i in range(len(k), len(s)):
-                arr.append(s[i])
-                if ''.join(arr[i-len(k)+1:len(arr)]) == k:
+                if s[i-len(k)+1:len(k)+(i-len(k)+1)] == k:
                     c += 1
                 if c >= 3:
                     return 1
