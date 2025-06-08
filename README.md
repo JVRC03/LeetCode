@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 <!---LeetCode Topics End-->
