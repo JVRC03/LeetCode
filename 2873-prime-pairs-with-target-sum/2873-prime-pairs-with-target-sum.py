@@ -4,7 +4,7 @@ class Solution:
 
         temp = [1] * (n+1)
 
-        for i in range(2, len(temp)):
+        for i in range(2, int(math.sqrt(n))+1):
             c = i*i
             for j in range(c, len(temp), i):
                 temp[j] = 0
