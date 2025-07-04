@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/JVRC03/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
