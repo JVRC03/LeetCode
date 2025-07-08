@@ -21,6 +21,4 @@ class Solution:
                  
             return s[::-1]
 
-        jv, rc = f(n*n, 16), f((n*n*n), 36)
-
-        return jv+rc 
+        return f(n*n, 16)+f((n*n*n), 36)
