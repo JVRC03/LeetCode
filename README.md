@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [2240-intervals-between-identical-elements](https://github.com/JVRC03/LeetCode/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2721-sum-of-distances) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
