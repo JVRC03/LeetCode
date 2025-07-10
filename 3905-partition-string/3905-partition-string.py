@@ -1,21 +1,21 @@
 class Solution:
     def partitionString(self, s: str) -> List[str]:
-        curr = ''
+        cur = ''
         st = set()
         jvrc = []
         r = 0
 
         while r < len(s):
-            curr += s[r]
+            cur += s[r]
 
-            if curr not in st:
-                st.add(curr)
-                jvrc.append(curr)
-                curr = ''
+            if cur not in st:
+                st.add(cur)
+                jvrc.append(cur)
+                cur = ''
             r += 1
 
-        if curr not in st and len(curr) > 0:
-            jvrc.append(curr)
+        if cur not in st and len(cur) > 0:
+            jvrc.append(cur)
 
         return jvrc
         
