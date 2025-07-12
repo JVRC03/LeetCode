@@ -1,17 +1,17 @@
 class Solution:
-    def findMatrix(self, nums: List[int]) -> List[List[int]]:
+    def findMatrix(self, jvrc: List[int]) -> List[List[int]]:
         dic = {}
         maxi, val = 0, 0
 
-        for i in range(len(nums)):
-            if nums[i] not in dic:
-                dic[nums[i]] = 1
+        for i in range(len(jvrc)):
+            if jvrc[i] not in dic:
+                dic[jvrc[i]] = 1
             else:
-                dic[nums[i]] += 1
+                dic[jvrc[i]] += 1
             
-            if dic[nums[i]] > maxi:
-                maxi = dic[nums[i]]
-                val = nums[i]
+            if dic[jvrc[i]] > maxi:
+                maxi = dic[jvrc[i]]
+                val = jvrc[i]
 
         jvrc = []
 
