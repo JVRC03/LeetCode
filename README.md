@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-moving-stones-until-consecutive](https://github.com/JVRC03/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/JVRC03/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -398,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/JVRC03/LeetCode/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
