@@ -1,7 +1,8 @@
 class Solution:
     def largestCombination(self, arr: List[int]) -> int:
         dic = {}
-
+        jvrc = 0
+        
         for i in range(len(arr)):
             s = bin(arr[i])
             s = s[2:]
@@ -12,12 +13,10 @@ class Solution:
                         dic[c] = 1
                     else:
                         dic[c] += 1
-                c += 1
-                
-        jvrc = 0
 
-        for i in dic:
-            jvrc = max(jvrc, dic[i])
+                    jvrc = max(jvrc, dic[c])
+
+                c += 1
 
         return jvrc
         
