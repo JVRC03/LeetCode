@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JVRC03/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/JVRC03/LeetCode/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
