@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
