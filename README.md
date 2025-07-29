@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2478-longest-nice-subarray](https://github.com/JVRC03/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JVRC03/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/JVRC03/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/JVRC03/LeetCode/tree/master/2509-minimize-xor) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/JVRC03/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Bit Manipulation
 |  |
