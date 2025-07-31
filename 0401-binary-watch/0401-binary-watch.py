@@ -31,8 +31,7 @@ class Solution:
 
         return str(c)
     
-    def f(self, k, arr):
-        v = arr.count(1)
+    def f(self, k, arr, v):
  
         if v == k:
             l = self.left(arr[0:4])
@@ -48,7 +47,9 @@ class Solution:
         for i in range(len(arr)):
             if arr[i] == 0:
                 arr[i] = 1
-                self.f(k, arr)
+                v += 1
+                self.f(k, arr, v)
+                v -= 1
                 arr[i] = 0
 
     def readBinaryWatch(self, k: int) -> List[str]:
@@ -56,7 +57,7 @@ class Solution:
             return []
 
         arr = [0] * 10
-        self.f(k, arr)
+        self.f(k, arr, 0)
 
         return list(self.jvrc)
         
