@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JVRC03/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/JVRC03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/JVRC03/LeetCode/tree/master/0944-smallest-range-i) |
 | [1103-moving-stones-until-consecutive](https://github.com/JVRC03/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1276-closest-divisors](https://github.com/JVRC03/LeetCode/tree/master/1276-closest-divisors) |
+| [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/JVRC03/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
