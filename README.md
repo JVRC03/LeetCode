@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JVRC03/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2721-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JVRC03/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/JVRC03/LeetCode/tree/master/2509-minimize-xor) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/JVRC03/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
