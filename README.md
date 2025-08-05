@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JVRC03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/JVRC03/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/JVRC03/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Number Theory
