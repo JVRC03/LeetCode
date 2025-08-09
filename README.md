@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JVRC03/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
