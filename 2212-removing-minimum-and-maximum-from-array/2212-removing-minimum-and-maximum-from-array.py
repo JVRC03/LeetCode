@@ -1,6 +1,15 @@
 class Solution:
     def minimumDeletions(self, nums: List[int]) -> int:
-        a, b = nums.index(min(nums)), nums.index(max(nums))
+        f, r = float('inf'), float('-inf')
+        a, b = -1, -1
+        
+        for i in range(len(nums)):
+            if nums[i] < f:
+                f = nums[i]
+                a = i
+            if nums[i] > r:
+                r = nums[i]
+                b = i
 
         x = max(a, b)+1
 
