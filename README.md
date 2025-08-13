@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/JVRC03/LeetCode/tree/master/0326-power-of-three) |
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/JVRC03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/JVRC03/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/JVRC03/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Line Sweep
 |  |
