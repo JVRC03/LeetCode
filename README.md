@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JVRC03/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/JVRC03/LeetCode/tree/master/0944-smallest-range-i) |
 | [1103-moving-stones-until-consecutive](https://github.com/JVRC03/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1276-closest-divisors](https://github.com/JVRC03/LeetCode/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -563,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
