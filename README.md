@@ -598,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
+## Graph
+|  |
+| ------- |
+| [1738-maximal-network-rank](https://github.com/JVRC03/LeetCode/tree/master/1738-maximal-network-rank) |
 <!---LeetCode Topics End-->
