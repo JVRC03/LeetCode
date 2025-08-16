@@ -15,7 +15,5 @@ class Solution:
                 if j != len(arr[i])-1:
                     jvrc = max(jvrc, dic[curr])
         
-        print(dic)
-        
         return len(arr)-jvrc
         
