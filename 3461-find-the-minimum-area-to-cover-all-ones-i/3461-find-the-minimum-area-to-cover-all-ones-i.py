@@ -1,20 +1,19 @@
 class Solution:
     def minimumArea(self, mat: List[List[int]]) -> int:
-        up, down, left, right = -1, -1, float('inf'), float('-inf')
+        fi, fj = -1, -1
+        ri, rj = float('inf'), -1
 
         for i in range(len(mat)):
-            for j in range(len(mat[i])):
+            for j in range(len(mat[0])):
                 if mat[i][j] == 1:
-                    if up == -1:
-                        up = i
-                    down = i
-                    if j < left:
-                        left = j
-                    if j > right:
-                        right = j
-        
-        jv = down-up+1
-        rc = right-left+1
+                    if fi == -1:
+                        fi = i
+                    ri = min(ri, j)
 
-        return jv*rc
+                    fj = max(i, fj)
+                    rj = max(j, rj) 
+
+        jvrc = ((rj-ri)+1) * ((fj-fi)+1)
+
+        return jvrc
         
