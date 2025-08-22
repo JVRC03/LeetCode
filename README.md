@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Trie
