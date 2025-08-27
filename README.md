@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -643,4 +644,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Tree
+|  |
+| ------- |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 <!---LeetCode Topics End-->
