@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JVRC03/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/JVRC03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/JVRC03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
@@ -661,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
