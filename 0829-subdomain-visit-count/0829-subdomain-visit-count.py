@@ -6,6 +6,7 @@ class Solution:
             s = arr[i].split(' ')
             a = int(s[0])
             b = s[1]
+            
             if '.' in b:
                 c = b.split('.')
                 
