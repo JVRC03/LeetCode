@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/JVRC03/LeetCode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
