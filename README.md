@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/JVRC03/LeetCode/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/JVRC03/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
