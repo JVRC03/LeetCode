@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JVRC03/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
