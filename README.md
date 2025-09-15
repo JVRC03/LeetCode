@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/JVRC03/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JVRC03/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
