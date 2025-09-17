@@ -1,23 +1,18 @@
 class Solution:
     def countPrimes(self, n: int) -> int:
-        temp = [1] * (n)
-        
-        if len(temp) > 1:
-            temp[1] = 0
-            temp[0] = 0
-        elif len(temp) == 1:
-            temp[0] = 0
+        if n < 2:
+            return 0
+        arr = [1] * (n)
 
-        for i in range(2, int(math.sqrt(n))+1):
-            c = i*i
-            for j in range(c, len(temp), i):
-                temp[j] = 0
-        
-        jvrc = 0
+        arr[0] = 0
+        arr[1] = 0
 
-        for i in range(len(temp)):
-            if temp[i]:
-                jvrc += 1
+        a = int(math.sqrt(n))+1
+
+        for i in range(2, a):
+            c = i*2
+            for j in range(c, len(arr), i):
+                arr[j] = 0
         
-        return jvrc
+        return arr.count(1)
         
