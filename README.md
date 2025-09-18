@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JVRC03/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/JVRC03/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0436-find-right-interval](https://github.com/JVRC03/LeetCode/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JVRC03/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
