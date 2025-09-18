@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JVRC03/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/JVRC03/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0436-find-right-interval](https://github.com/JVRC03/LeetCode/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JVRC03/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JVRC03/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
