@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
