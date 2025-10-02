@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JVRC03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JVRC03/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2721-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2721-sum-of-distances) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JVRC03/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/JVRC03/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
