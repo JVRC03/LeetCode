@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JVRC03/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/JVRC03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
