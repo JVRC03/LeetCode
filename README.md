@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -763,10 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 ## Monotonic Stack
 |  |
