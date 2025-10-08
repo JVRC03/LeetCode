@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/JVRC03/LeetCode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JVRC03/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-split-two-strings-to-make-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Bit Manipulation
