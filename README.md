@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JVRC03/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/JVRC03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/JVRC03/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/JVRC03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/JVRC03/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JVRC03/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
