@@ -3,13 +3,16 @@ class Solution:
         a.sort()
         b.sort()
         jv, rc = a[0], b[0]
-
+        c = 1
         for i in range(1, len(a)):
             jv = max(jv, a[i]-a[i-1])
+            if c < len(b):
+                rc = max(rc, b[c]-b[c-1])
+                c += 1
         
         jv = max(jv, h-a[-1])
 
-        for i in range(1, len(b)):
+        for i in range(c, len(b)):
             rc = max(rc, b[i]-b[i-1])
         
         rc = max(rc, w-b[-1])
