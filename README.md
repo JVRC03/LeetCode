@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JVRC03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/JVRC03/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/JVRC03/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JVRC03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/JVRC03/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/JVRC03/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/JVRC03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JVRC03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
