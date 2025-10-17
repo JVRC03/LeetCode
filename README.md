@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/JVRC03/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JVRC03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JVRC03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
