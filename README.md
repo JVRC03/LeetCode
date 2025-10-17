@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0907-koko-eating-bananas](https://github.com/JVRC03/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0991-array-of-doubled-pairs](https://github.com/JVRC03/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/JVRC03/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JVRC03/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/JVRC03/LeetCode/tree/master/0401-binary-watch) |
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
