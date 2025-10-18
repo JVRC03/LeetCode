@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/JVRC03/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0593-valid-square](https://github.com/JVRC03/LeetCode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/JVRC03/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/JVRC03/LeetCode/tree/master/0593-valid-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/JVRC03/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
