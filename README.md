@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/JVRC03/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3189-find-champion-ii](https://github.com/JVRC03/LeetCode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
