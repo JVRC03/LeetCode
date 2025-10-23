@@ -1,6 +1,6 @@
 class Solution:
     def minimizeStringValue(self, s: str) -> str:
-        dic = {}
+        dic, f = {}, 0
 
         for i in range(len(s)):
             if s[i] not in dic:
@@ -8,7 +8,7 @@ class Solution:
             else:
                 dic[s[i]] += 1
         
-        heap = []
+        heap, arr = [], []
         heapq.heapify(heap)
 
         for i in range(26):
@@ -22,7 +22,6 @@ class Solution:
             heapq.heappush(heap, temp)
         
         jvrc = ''
-        arr = []
 
         for i in range(len(s)):
             if s[i] != '?':
@@ -35,14 +34,12 @@ class Solution:
             heapq.heappush(heap, a)
         
         arr.sort()
-        arr = arr[::-1]
-
         for i in range(len(s)):
             if s[i] != '?':
                 jvrc += s[i]
             else:
-                jvrc += arr[-1]
-                arr.pop()
+                jvrc += arr[f]
+                f += 1
 
         return jvrc
 
