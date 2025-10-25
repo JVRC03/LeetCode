@@ -1,20 +1,28 @@
 class Solution:
     def totalMoney(self, n: int) -> int:
-        curr, jvrc = 1, 0
-        now = curr
-        c = 1
+        jvrc = 0
+        curr = 1
 
-        while n:
-            if c == 8:
-                c = 1
-                curr += 1
-                now = curr
-            
-            jvrc += now
-            now += 1
-            c += 1
-            n -= 1
+        while n >= 7:
+            n -= 7
+            temp = curr+6
+            tot = (temp * (temp+1))//2
+
+            k = curr-1
+            k = (k * (k+1))//2
+
+            jvrc += (tot - k)
+            curr += 1
         
+        temp = curr+n-1
+        tot = (temp * (temp+1))//2
+
+        k = curr-1
+        k = (k * (k+1))//2
+
+        jvrc += (tot - k)
+        curr += 1
+
         return jvrc
             
             
