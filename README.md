@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/JVRC03/LeetCode/tree/master/2240-intervals-between-identical-elements) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/JVRC03/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
