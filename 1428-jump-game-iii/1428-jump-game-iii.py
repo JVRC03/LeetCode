@@ -1,8 +1,5 @@
 class Solution:
     def canReach(self, arr: List[int], idx: int) -> bool:
-        if 0 not in arr:
-            return False
-        
         k = set()
 
         for i in range(len(arr)):
