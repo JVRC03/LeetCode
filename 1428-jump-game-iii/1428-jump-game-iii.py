@@ -1,14 +1,14 @@
 class Solution:
-    def canReach(self, arr: List[int], idx: int) -> bool:
+    def canReach(self, arr: List[int], f: int) -> bool:
         k = set()
 
         for i in range(len(arr)):
             if arr[i] == 0:
                 k.add(i)
 
+        s = {f}
+        q = [[f, arr[f]]]
         f = 0
-        s = {idx}
-        q = [[idx, arr[idx]]]
 
         while f < len(q):
             a = q[f][0]+q[f][1]
