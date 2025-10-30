@@ -1,16 +1,16 @@
 class Solution:
     def maxOperations(self, nums: List[int]) -> int:
-        jvrc = 1
         curr = nums[0]+nums[1]
-        i = 2
+        nums[0] = 1
+        nums[1] = 2
 
-        while i < len(nums)-1:
-            if nums[i]+nums[i+1] == curr:
-                jvrc += 1
-                i += 1
+        while nums[1] < len(nums)-1:
+            if nums[nums[1]]+nums[nums[1]+1] == curr:
+                nums[0] += 1
+                nums[1] += 1
             else:
                 break
-            i += 1
+            nums[1] += 1
         
-        return jvrc
+        return nums[0]
         
