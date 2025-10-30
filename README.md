@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JVRC03/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JVRC03/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JVRC03/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
