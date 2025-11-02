@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JVRC03/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/JVRC03/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
