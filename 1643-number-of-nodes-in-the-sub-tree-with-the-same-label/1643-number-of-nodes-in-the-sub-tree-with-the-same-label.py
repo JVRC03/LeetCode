@@ -5,7 +5,7 @@ class Solution:
     def countSubTrees(self, n: int, arr: List[List[int]], s: str) -> List[int]:
         if n == 1:
             return [1]
-        jvrc = []
+        jvrc, v = [], [0] * n
         dic = {}
 
         for i in range(len(arr)):
@@ -24,7 +24,6 @@ class Solution:
                 return {}
             
             v[source] = 1
-
             arr = dic[source]
             loc = {}
 
@@ -44,10 +43,7 @@ class Solution:
             self.ans[source] = loc[s[source]]
             return loc
 
-        v = [0] * n
-        for i in range(n):
-            if v[i] == 0:
-                dfs(i)
+        dfs(0)
         
         for i in range(n):
             jvrc.append(self.ans[i])
