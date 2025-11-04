@@ -3,7 +3,7 @@ class Solution:
         if len(arr)-1 > k:
             return -1
         
-        f, r = 1, 1000000000
+        f, r = 1, 100000000
         jvrc = float('inf')
 
         def check(n):
