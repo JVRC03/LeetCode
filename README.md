@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/JVRC03/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/JVRC03/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/JVRC03/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/JVRC03/LeetCode/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3905-partition-string](https://github.com/JVRC03/LeetCode/tree/master/3905-partition-string) |
 ## Enumeration
 |  |
