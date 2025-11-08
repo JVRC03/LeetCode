@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-split-two-strings-to-make-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1797-goal-parser-interpretation](https://github.com/JVRC03/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
