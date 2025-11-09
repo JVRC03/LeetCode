@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/JVRC03/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/JVRC03/LeetCode/tree/master/1803-average-waiting-time) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JVRC03/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/JVRC03/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
