@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
