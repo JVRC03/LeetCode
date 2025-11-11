@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/JVRC03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0520-detect-capital](https://github.com/JVRC03/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
