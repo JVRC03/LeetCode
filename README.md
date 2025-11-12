@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JVRC03/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JVRC03/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JVRC03/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
