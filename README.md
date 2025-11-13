@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JVRC03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/JVRC03/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
