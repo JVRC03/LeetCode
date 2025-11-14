@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
