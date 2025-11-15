@@ -16,8 +16,10 @@ class Solution:
             self.jvrc = root
             return
         
-        self.dfs(root.left, k)
-        self.dfs(root.right, k)
+        if root.val > k:
+            self.dfs(root.left, k)
+        else:
+            self.dfs(root.right, k)
         
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
         self.dfs(root, val)
