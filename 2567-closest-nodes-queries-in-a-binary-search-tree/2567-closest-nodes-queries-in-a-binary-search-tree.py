@@ -21,7 +21,8 @@ class Solution:
         def get(k):
             
             f, r = 0, len(arr)-1
-            a, b = -1, -1
+            a = -1
+            idx = -1
         
             while f <= r:
                 mid = (f+r)//2
@@ -30,20 +31,21 @@ class Solution:
                     r = mid-1
                 else:
                     a = arr[mid]
+                    idx = mid
                     f = mid+1
             
-            f, r = 0, len(arr)-1
+            if idx == -1:
+                if arr[-1] < k:
+                    return [-1, -1]
+                return [-1, arr[0]]
+            
+            if arr[idx] == k:
+                return [k, k]
+            
+            if idx+1 < len(arr):
+                return [arr[idx], arr[idx+1]]
 
-            while f <= r:
-                mid = (f+r)//2
-
-                if arr[mid] < k:
-                    f = mid+1
-                else:
-                    b = arr[mid]
-                    r = mid-1
-
-            return [a, b]
+            return [arr[idx], -1]
 
         for i in range(len(q)):
             jvrc.append(get(q[i]))
