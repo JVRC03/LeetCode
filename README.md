@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JVRC03/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/JVRC03/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/JVRC03/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1580-shuffle-the-array](https://github.com/JVRC03/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
