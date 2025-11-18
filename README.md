@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/JVRC03/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
