@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/JVRC03/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/JVRC03/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/JVRC03/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1032,5 +1035,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/JVRC03/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
