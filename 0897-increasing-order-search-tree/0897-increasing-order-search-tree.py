@@ -16,8 +16,6 @@ class Solution:
         self.dfs(root.left)
         node = TreeNode()
         node.val = root.val
-        node.left = None
-        node.right = None
 
         if self.jvrc == None:
             self.jvrc = node
