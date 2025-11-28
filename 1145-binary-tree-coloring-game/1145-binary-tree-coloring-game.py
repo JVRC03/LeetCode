@@ -6,24 +6,22 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.parent = None
         self.left_child = None
         self.right_child = None
 
     def btreeGameWinningMove(self, root: Optional[TreeNode], n: int, x: int) -> bool:
 
-        def dfs(root, parent):
+        def dfs(root):
             if root is None:
                 return 
             
             if root.val == x:
-                self.parent = parent
                 self.left_child = root.left
                 self.right_child = root.right
                 return
             
-            dfs(root.left, root)
-            dfs(root.right, root)
+            dfs(root.left)
+            dfs(root.right)
         
         def calc(root):
             if root is None or root.val == x:
@@ -34,7 +32,7 @@ class Solution:
 
             return a+b+1
 
-        dfs(root, None)
+        dfs(root)
         b1 = calc(root)
         b2 = calc(self.left_child)
         b3 = calc(self.right_child)
