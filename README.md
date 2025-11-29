@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3462-vowels-game-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JVRC03/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
