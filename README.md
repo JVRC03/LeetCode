@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/JVRC03/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/JVRC03/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
