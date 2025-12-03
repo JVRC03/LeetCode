@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JVRC03/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JVRC03/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/JVRC03/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/JVRC03/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JVRC03/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/JVRC03/LeetCode/tree/master/3221-find-the-peaks) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/JVRC03/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
