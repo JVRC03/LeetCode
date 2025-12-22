@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JVRC03/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JVRC03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JVRC03/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JVRC03/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JVRC03/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JVRC03/LeetCode/tree/master/3394-minimum-array-end) |
