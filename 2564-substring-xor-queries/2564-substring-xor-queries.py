@@ -4,6 +4,11 @@ class Solution:
 
         for i in range(len(s)):
             temp = ''
+            if s[i] == '0':
+                if 0 not in dic:
+                    dic[0] = [i, i]
+                continue
+                
             for j in range(31):
                 if i+j < len(s):
                     temp += s[i+j]
