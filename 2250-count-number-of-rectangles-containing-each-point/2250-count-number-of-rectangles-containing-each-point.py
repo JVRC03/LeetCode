@@ -27,9 +27,8 @@ class Solution:
             ans = 0
             temp = dic[start]
 
-            for i in range(len(temp)):
-                if i >= k:
-                    ans += temp[i]
+            for i in range(k, len(temp)):
+                ans += temp[i]
 
             return ans
 
