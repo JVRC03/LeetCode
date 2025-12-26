@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/JVRC03/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JVRC03/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JVRC03/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
