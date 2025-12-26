@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JVRC03/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JVRC03/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/JVRC03/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
