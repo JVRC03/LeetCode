@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/JVRC03/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JVRC03/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/JVRC03/LeetCode/tree/master/1803-average-waiting-time) |
+| [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JVRC03/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
