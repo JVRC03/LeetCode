@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JVRC03/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/JVRC03/LeetCode/tree/master/2509-minimize-xor) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/JVRC03/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JVRC03/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/JVRC03/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JVRC03/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
