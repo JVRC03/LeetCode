@@ -15,14 +15,11 @@ class Solution:
             temp[i-1][-1] = 0
             temp[i][0] = 0
 
-        arr = []
+        arr = [temp[0][0], temp[0][0]+temp[0][1]]
         
-        for i in range(len(temp)):
-            arr.append(temp[i][0])
-            arr.append(temp[i][-1])
-
-        for i in range(1, len(arr)):
-            arr[i] = arr[i]+arr[i-1]
+        for i in range(1, len(temp)):
+            arr.append(arr[-1]+temp[i][0])
+            arr.append(arr[-1]+temp[i][1])
 
         jvrc = []
         f, r = 1, ((k * 2)-2)
