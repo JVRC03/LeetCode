@@ -997,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
+| [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JVRC03/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
+| [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
+| [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/JVRC03/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/JVRC03/LeetCode/tree/master/1738-maximal-network-rank) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1082,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
+| [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
