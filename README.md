@@ -999,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/JVRC03/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JVRC03/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/JVRC03/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/JVRC03/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
