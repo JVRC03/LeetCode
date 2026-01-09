@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JVRC03/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Quickselect
 |  |
