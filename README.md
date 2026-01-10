@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/JVRC03/LeetCode/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/JVRC03/LeetCode/tree/master/1830-count-good-meals) |
+| [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
