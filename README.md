@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1068,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1187,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
