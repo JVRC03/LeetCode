@@ -1061,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/JVRC03/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3486-count-the-number-of-good-nodes](https://github.com/JVRC03/LeetCode/tree/master/3486-count-the-number-of-good-nodes) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Database
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/JVRC03/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/JVRC03/LeetCode/tree/master/3189-find-champion-ii) |
+| [3310-remove-methods-from-project](https://github.com/JVRC03/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
