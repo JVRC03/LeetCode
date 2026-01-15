@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JVRC03/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JVRC03/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/JVRC03/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JVRC03/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/JVRC03/LeetCode/tree/master/1642-water-bottles) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JVRC03/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
