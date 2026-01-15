@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0917-reverse-only-letters](https://github.com/JVRC03/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/JVRC03/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
+| [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/JVRC03/LeetCode/tree/master/1212-sequential-digits) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/JVRC03/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/JVRC03/LeetCode/tree/master/0401-binary-watch) |
+| [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 ## Segment Tree
 |  |
 | ------- |
