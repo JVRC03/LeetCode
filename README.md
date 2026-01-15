@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/JVRC03/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
+| [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0917-reverse-only-letters](https://github.com/JVRC03/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/JVRC03/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/JVRC03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JVRC03/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
+| [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JVRC03/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
