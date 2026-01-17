@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Bit Manipulation
 |  |
@@ -859,12 +862,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1266,4 +1271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
