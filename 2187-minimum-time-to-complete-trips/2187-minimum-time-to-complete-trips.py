@@ -1,6 +1,6 @@
 class Solution:
     def minimumTime(self, arr: List[int], k: int) -> int:
-        low, high = 1, max(arr) * 100000000009
+        low, high = 1, max(arr) * 100000009
         jvrc = float('inf')
 
         def check(arr, n):
