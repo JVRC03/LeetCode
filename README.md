@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JVRC03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/JVRC03/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JVRC03/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
@@ -1132,11 +1135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
@@ -1145,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/JVRC03/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1154,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JVRC03/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 ## Graph
 |  |
 | ------- |
@@ -1281,4 +1288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
