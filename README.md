@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JVRC03/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/JVRC03/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
