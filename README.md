@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/JVRC03/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JVRC03/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/JVRC03/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Quickselect
 |  |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1156,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
@@ -1310,4 +1316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
