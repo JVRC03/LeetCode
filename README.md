@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/JVRC03/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JVRC03/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/JVRC03/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
