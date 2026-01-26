@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/JVRC03/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
+| [1200-minimum-absolute-difference](https://github.com/JVRC03/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/JVRC03/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1200-minimum-absolute-difference](https://github.com/JVRC03/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
