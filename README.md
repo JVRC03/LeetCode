@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/JVRC03/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/JVRC03/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JVRC03/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/JVRC03/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/JVRC03/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JVRC03/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
