@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JVRC03/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JVRC03/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/JVRC03/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/JVRC03/LeetCode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JVRC03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JVRC03/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/JVRC03/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JVRC03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JVRC03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2611-mice-and-cheese](https://github.com/JVRC03/LeetCode/tree/master/2611-mice-and-cheese) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/JVRC03/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JVRC03/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
