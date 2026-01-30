@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JVRC03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JVRC03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
