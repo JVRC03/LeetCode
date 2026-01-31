@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JVRC03/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JVRC03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/JVRC03/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JVRC03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/JVRC03/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/JVRC03/LeetCode/tree/master/0981-time-based-key-value-store) |
