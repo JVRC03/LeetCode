@@ -22,8 +22,14 @@ class Solution:
         dp = [-1] * len(nums)
 
         for i in range(len(nums)):
+            if dp[i] != -1:
+                continue
             val = self.f(nums, i, dp, nums[i])
+
             jvrc = max(jvrc, val)
+            
+        self.f(nums, 0, dp, nums[0])
+
 
         return jvrc
         
