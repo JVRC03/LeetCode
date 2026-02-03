@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/JVRC03/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3637-trionic-array-i](https://github.com/JVRC03/LeetCode/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/JVRC03/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
