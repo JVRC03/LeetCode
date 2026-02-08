@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1600-throne-inheritance](https://github.com/JVRC03/LeetCode/tree/master/1600-throne-inheritance) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1600-throne-inheritance](https://github.com/JVRC03/LeetCode/tree/master/1600-throne-inheritance) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JVRC03/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JVRC03/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0981-time-based-key-value-store](https://github.com/JVRC03/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
+| [1600-throne-inheritance](https://github.com/JVRC03/LeetCode/tree/master/1600-throne-inheritance) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [3508-implement-router](https://github.com/JVRC03/LeetCode/tree/master/3508-implement-router) |
 ## Graph
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/JVRC03/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1600-throne-inheritance](https://github.com/JVRC03/LeetCode/tree/master/1600-throne-inheritance) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
