@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/JVRC03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/JVRC03/LeetCode/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/JVRC03/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3692-majority-frequency-characters](https://github.com/JVRC03/LeetCode/tree/master/3692-majority-frequency-characters) |
+| [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/JVRC03/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JVRC03/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
+| [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JVRC03/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1209,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
