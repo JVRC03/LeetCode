@@ -16,15 +16,12 @@ class Solution:
         s = set()
 
         def call(st):
-            
             if st in s:
                 return True
 
-            a = list(st)     
             burr = ''
-
-            for i in range(len(a)-1, -1, -1):
-                burr = a[i] + burr
+            for i in range(len(st)-1, -1, -1):
+                burr = st[i] + burr
                 s.add(burr)
             
             return False
