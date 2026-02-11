@@ -8,21 +8,28 @@ class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         jvrc = 0
         q = deque([[root, 0]])
-
+        
         while len(q):
             c = len(q)
-            main = []
-
+            a, b = -1, -1
+            
             for i in range(c):
                 arr = q.popleft()
-                main.append(arr[-1])
-
-                if arr[0].left:
-                    q.append([arr[0].left, (arr[-1]*2)+1])
-                if arr[0].right:
-                    q.append([arr[0].right, (2*arr[-1])+2])
+                n = arr[0]
+                val = arr[-1]
+                
+                if a == -1:
+                    a = val
+                    b = val
+                else:
+                    b = val
+                
+                if n.left:
+                    q.append([n.left, (2 * val) + 1])
+                if n.right:
+                    q.append([n.right, (2 * val) + 2])
             
-            jvrc = max(jvrc, 1+(main[-1]-main[0]))
+            jvrc = max(jvrc, (b - a) + 1)
         
         return jvrc
-        
+            
