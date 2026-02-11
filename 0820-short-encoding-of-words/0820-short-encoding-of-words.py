@@ -12,7 +12,7 @@ class Solution:
             a = heapq.heappop(heap)
             arr.append(a[-1])
         
-        jvrc = ''
+        jvrc = 0
         s = set()
 
         def call(st):
@@ -21,26 +21,21 @@ class Solution:
                 return True
 
             a = list(st)     
-            f = -1
             burr = ''
 
-            for i in range(len(a)):
-                burr = a[f] + burr
-                f -= 1
+            for i in range(len(a)-1, -1, -1):
+                burr = a[i] + burr
                 s.add(burr)
             
             return False
 
         for i in range(len(arr)):
-            res = call(arr[i])
-
-            if res:
+            if call(arr[i]):
                 continue
             
-            jvrc += '#'
-            jvrc += arr[i]
+            jvrc += (len(arr[i])+1)
         
-        return len(jvrc)
+        return jvrc
         
 
         
