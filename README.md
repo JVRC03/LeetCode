@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/JVRC03/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
@@ -1174,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/JVRC03/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/JVRC03/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1323,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1351,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JVRC03/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
