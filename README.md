@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/JVRC03/LeetCode/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/JVRC03/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JVRC03/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/JVRC03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/JVRC03/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
 ## String
