@@ -1,49 +1,52 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        temp = max(len(a), len(b))-min(len(a), len(b))
+        diff = abs(len(a) - len(b))
 
-        diff = '0' * temp
+        s = '0' * diff
 
         if len(a) < len(b):
-            a = diff+a
-        elif len(b) < len(a):
-            b = diff+b
+            a = s + a
+        else:
+            b = s + b
         
+        jvrc = []
 
-        jvrc = ''
-        i = len(a)-1
+        a = list(a)
+        b = list(b)
 
-        while i >= 0:
-            if a[i] == b[i] == '1':
-                success = 1
-                c = 0
-                while i >= 0:
-                    if a[i] == b[i] == '1':
-                        if c:
-                            jvrc += '1'
-                        else:
-                            jvrc += '0'
-                        i -= 1
-                        c = 1
-                        continue
-                    if a[i] == '1' or b[i] == '1':
-                        jvrc += '0'
-                        i -= 1
-                        c = 1
-                        continue
-                    success = 0
-                    jvrc += '1'
-                    break        
+        while len(a) and len(b):
+            c, d = a.pop(), b.pop()
 
-                if success:
-                    jvrc += '1'
-                    break
-            else:
-                if a[i] == b[i] == '0':
-                    jvrc += '0'
-                else:
-                    jvrc += '1'
+            if c == d == '0':
+                jvrc.append(c)
+                continue
             
-            i -= 1
+            if c != d:
+                jvrc.append('1')
+                continue
+            
+            jvrc.append('0')
+
+            success = 0
+            while len(a) and len(b):
+                c, d = a.pop(), b.pop()
+
+                if c == d == '0':
+                    jvrc.append('1')
+                    success = 1
+                    break
+                
+                if c != d:
+                    jvrc.append('0')
+                    continue
+                
+                jvrc.append('1')
+                            
+            if not success:
+                jvrc.append('1')
         
-        return jvrc[::-1]
+        jvrc = jvrc[::-1]
+        return ''.join(jvrc)
+            
+
+        
