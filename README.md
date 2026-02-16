@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/JVRC03/LeetCode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/JVRC03/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JVRC03/LeetCode/tree/master/0342-power-of-four) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/JVRC03/LeetCode/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JVRC03/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
