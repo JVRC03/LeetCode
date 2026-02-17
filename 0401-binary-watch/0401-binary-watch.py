@@ -1,63 +1,38 @@
 class Solution:
-
     def __init__(self):
         self.jvrc = set()
-    
-    def left(self, arr):
-        x = [1, 2, 4, 8]
-        c = 0
 
-        for i in range(len(arr)):
-            if arr[i]:
-                c += x[i]
+    def back_track(self, arr, k, temp):
 
-        if c > 11:
-            return ''   
-
-        return str(c)
-
-    def right(self, arr):
-        x = [1, 2, 4, 8, 16, 32]
-        c = 0
-        for i in range(len(arr)):
-            if arr[i]:
-                c += x[i]
-
-        if c > 59:
-            return ''  
-        
-        if c < 10:
-            return '0'+str(c)
-
-        return str(c)
-    
-    def f(self, k, arr, v):
- 
-        if v == k:
-            l = self.left(arr[0:4])
-            r = self.right(arr[4:])
+        if len(temp) == k:
+            hrs, mins = 0, 0
+            for i in range(len(temp)):
+                if temp[i] <= 3:
+                    hrs += arr[temp[i]]
+                else:
+                    mins += arr[temp[i]]
             
-            if len(l) > 0 and len(r) > 0:
-                s = l + ':' + r
-                
-                if s not in self.jvrc:
-                    self.jvrc.add(s)
-            return  
-        
+            if hrs > 11 or mins > 59:
+                return 
+            
+            temp = ''
+            if mins < 10:
+                temp = '0'
+            s = str(hrs) + ':' + (temp+str(mins))
+
+            self.jvrc.add(s)
+            return
+
         for i in range(len(arr)):
-            if arr[i] == 0:
-                arr[i] = 1
-                v += 1
-                self.f(k, arr, v)
-                v -= 1
-                arr[i] = 0
+            if i not in temp:
+                temp.append(i)
+                self.back_track(arr, k, temp)
+                temp.pop()
 
     def readBinaryWatch(self, k: int) -> List[str]:
-        if k > 8:
-            return []
+        arr = [1, 2, 4, 8, 1, 2, 4, 8, 16, 32]
 
-        arr = [0] * 10
-        self.f(k, arr, 0)
+        self.back_track(arr, k, [])
 
         return list(self.jvrc)
         
