@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/JVRC03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/JVRC03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
