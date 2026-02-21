@@ -2,9 +2,6 @@ class Solution:
     def minMutation(self, src: str, k: str, word: List[str]) -> int:
         word = set(word)
 
-        if k not in word:
-            return -1
-
         jvrc = 0
         vis = {src}
 
