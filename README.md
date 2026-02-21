@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JVRC03/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/JVRC03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/JVRC03/LeetCode/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/JVRC03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0520-detect-capital](https://github.com/JVRC03/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/JVRC03/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JVRC03/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
