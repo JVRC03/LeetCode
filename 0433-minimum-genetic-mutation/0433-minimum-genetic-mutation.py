@@ -9,6 +9,7 @@ class Solution:
         vis = {src}
 
         q = deque([src])
+        check = ['A', 'C', 'G', 'T']
 
         while len(q):
             c = len(q)
@@ -18,14 +19,13 @@ class Solution:
                 lst = list(s)
 
                 for l in range(len(s)):
-                    for j in range(26):
-                        lst[l] = chr(65 + j)
+                    for j in range(len(check)):
+                        lst[l] = check[j]
 
                         temp = ''.join(lst)
 
                         if temp not in vis:
                             if temp in word:
-                                #print(q)
                                 q.append(temp)
                                 vis.add(temp)
                         
