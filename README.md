@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JVRC03/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1089-duplicate-zeros](https://github.com/JVRC03/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1200-minimum-absolute-difference](https://github.com/JVRC03/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/JVRC03/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/JVRC03/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/JVRC03/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/JVRC03/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/JVRC03/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
