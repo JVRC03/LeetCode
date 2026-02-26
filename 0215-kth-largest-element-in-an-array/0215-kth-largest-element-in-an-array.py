@@ -10,8 +10,6 @@ class Solution:
         while k:
             k -= 1
             heapq.heappop(heap)
-        
-        if heap[0] < 0:
-            return abs(heap[0])
+
         return -heap[0]
         
