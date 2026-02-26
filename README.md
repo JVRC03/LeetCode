@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JVRC03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/JVRC03/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/JVRC03/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JVRC03/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JVRC03/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JVRC03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JVRC03/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JVRC03/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JVRC03/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JVRC03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/JVRC03/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
