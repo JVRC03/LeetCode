@@ -1309,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/JVRC03/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/JVRC03/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/JVRC03/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3486-count-the-number-of-good-nodes](https://github.com/JVRC03/LeetCode/tree/master/3486-count-the-number-of-good-nodes) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/JVRC03/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
