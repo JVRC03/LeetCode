@@ -1,6 +1,5 @@
 class Solution:
     def findRadius(self, arr: List[int], k: List[int]) -> int:
-        arr.sort()
         k.sort()
 
         def dfs(arr, k, mid):
@@ -35,7 +34,7 @@ class Solution:
             
             return True
 
-        f, r = 0, max(arr[-1], k[-1])
+        f, r = 0, max(max(arr), k[-1])
         jvrc = float('inf')
 
         while f <= r:
