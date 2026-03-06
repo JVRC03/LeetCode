@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/JVRC03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JVRC03/LeetCode/tree/master/0242-valid-anagram) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JVRC03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JVRC03/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
+| [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1537,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/JVRC03/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [2685-count-the-number-of-complete-components](https://github.com/JVRC03/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
