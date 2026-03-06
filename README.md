@@ -1240,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JVRC03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/JVRC03/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/JVRC03/LeetCode/tree/master/0547-number-of-provinces) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/JVRC03/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JVRC03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1405,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/JVRC03/LeetCode/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/JVRC03/LeetCode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/JVRC03/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1547,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/JVRC03/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/JVRC03/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/JVRC03/LeetCode/tree/master/1514-path-with-maximum-probability) |
