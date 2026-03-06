@@ -1,7 +1,6 @@
 class Solution:
     def validPath(self, n: int, arr: List[List[int]], source: int, k: int) -> bool:
         dic = {}
-        self.jvrc = False
 
         for i in range(len(arr)):
             a, b = arr[i][0], arr[i][1]
@@ -18,21 +17,29 @@ class Solution:
         
         vis = [0] * n
 
-        def dfs(source, k):
-            if vis[source] or self.jvrc:
-                return 
-            
-            vis[source] = 1
-            if source == k:
-                self.jvrc = True
-                return
-            
-            a = dic[source]
+        def bfs(source, k):
+            q = deque([source])
 
-            for i in range(len(a)):
-                dfs(a[i], k)
+            while len(q):
+                c = len(q)
 
-        dfs(source, k)
+                for idx in range(c):
+                    node = q.popleft()
 
-        return self.jvrc
+                    if node == k:
+                        return True
+                    
+                    a = dic[node]
+                    vis[node] = 1
+                    for i in range(len(a)):
+                        if vis[a[i]] == 0:
+                            vis[a[i]] = 1
+                            q.append(a[i])
+                            if a[i] == k:
+                                return True
+                    
+            return False
+
+
+        return bfs(source, k)
         
