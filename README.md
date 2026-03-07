@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/JVRC03/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JVRC03/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JVRC03/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JVRC03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JVRC03/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/JVRC03/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/JVRC03/LeetCode/tree/master/0242-valid-anagram) |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JVRC03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -1345,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/JVRC03/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/JVRC03/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/JVRC03/LeetCode/tree/master/0401-binary-watch) |
