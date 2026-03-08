@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JVRC03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/JVRC03/LeetCode/tree/master/1830-count-good-meals) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/JVRC03/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/JVRC03/LeetCode/tree/master/0401-binary-watch) |
 | [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
+| [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Segment Tree
 |  |
 | ------- |
