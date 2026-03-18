@@ -19,7 +19,9 @@ class Solution:
 
                 if val <= target:
                     jvrc += 1
-                    
+                else:
+                    break
+
             top.append(temp)
                 
         return jvrc
