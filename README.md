@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JVRC03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
+| [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/JVRC03/LeetCode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0934-shortest-bridge](https://github.com/JVRC03/LeetCode/tree/master/0934-shortest-bridge) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -1349,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/JVRC03/LeetCode/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -1589,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JVRC03/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JVRC03/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
+| [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JVRC03/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/JVRC03/LeetCode/tree/master/1905-count-sub-islands) |
