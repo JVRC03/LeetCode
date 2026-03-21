@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JVRC03/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JVRC03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JVRC03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/JVRC03/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JVRC03/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JVRC03/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -1287,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
@@ -1354,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JVRC03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1596,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JVRC03/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JVRC03/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JVRC03/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
