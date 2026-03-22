@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JVRC03/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1898-maximum-number-of-removable-characters](https://github.com/JVRC03/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1905-count-sub-islands](https://github.com/JVRC03/LeetCode/tree/master/1905-count-sub-islands) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/JVRC03/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/JVRC03/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JVRC03/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JVRC03/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
+| [1898-maximum-number-of-removable-characters](https://github.com/JVRC03/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/JVRC03/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/JVRC03/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/JVRC03/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/JVRC03/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
