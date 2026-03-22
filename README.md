@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/JVRC03/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JVRC03/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JVRC03/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/JVRC03/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/JVRC03/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
