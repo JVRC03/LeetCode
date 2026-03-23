@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JVRC03/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/JVRC03/LeetCode/tree/master/3143-maximum-points-inside-the-square) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JVRC03/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
