@@ -9,17 +9,16 @@ class Solution:
         self.jvrc = True
     
     def dfs(self, root):
-        if root is None or self.jvrc == False:
+        if root is None:
             return 0
         
-        a = self.dfs(root.left)
-        b = self.dfs(root.right)
+        left = self.dfs(root.left)
+        right = self.dfs(root.right)
 
-        if abs(a-b) > 1:
+        if abs(left - right) > 1:
             self.jvrc = False
-            return 0
         
-        return 1+max(a, b)
+        return 1 + max(left, right)
 
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         self.dfs(root)
