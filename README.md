@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/JVRC03/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JVRC03/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JVRC03/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JVRC03/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JVRC03/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JVRC03/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JVRC03/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JVRC03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JVRC03/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
