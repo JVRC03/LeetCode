@@ -6,15 +6,16 @@
 #         self.right = right
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
+        self.s = set()
 
-        def dfs(root, k):
+        def dfs(root):
             if root is None:
                 return True
             
-            if root.val != k:
+            self.s.add(root.val)
+            if len(self.s) > 1:
                 return False
             
-            return dfs(root.left, k) and dfs(root.right, k)
+            return dfs(root.left) and dfs(root.right)
 
-        return dfs(root, root.val)
-        
+        return dfs(root)
