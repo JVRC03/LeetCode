@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/JVRC03/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/JVRC03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/JVRC03/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JVRC03/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/JVRC03/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JVRC03/LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/JVRC03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/JVRC03/LeetCode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/JVRC03/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JVRC03/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/JVRC03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JVRC03/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JVRC03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
