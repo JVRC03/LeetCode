@@ -1,6 +1,6 @@
 class Solution:
     def plusOne(self, arr: List[int]) -> List[int]:
-        r = len(arr)-1
+        r = len(arr) - 1
 
         while r >= 0:
             if arr[r] != 9:
@@ -10,10 +10,10 @@ class Solution:
             arr[r] = 0
             r -= 1
         
-        if r < 0:
+        if r == -1:
             arr[0] = 1
             arr.append(0)
         
         return arr
-
+        
         
