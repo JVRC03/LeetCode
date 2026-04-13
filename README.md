@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1830-count-good-meals](https://github.com/JVRC03/LeetCode/tree/master/1830-count-good-meals) |
 | [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/JVRC03/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/JVRC03/LeetCode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JVRC03/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
