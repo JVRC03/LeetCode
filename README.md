@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/JVRC03/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/JVRC03/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0994-rotting-oranges](https://github.com/JVRC03/LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/JVRC03/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/JVRC03/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0991-array-of-doubled-pairs](https://github.com/JVRC03/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1715,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JVRC03/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JVRC03/LeetCode/tree/master/0743-network-delay-time) |
+| [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/JVRC03/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1514-path-with-maximum-probability](https://github.com/JVRC03/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JVRC03/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
