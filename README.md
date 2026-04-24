@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/JVRC03/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JVRC03/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
+| [2833-furthest-point-from-origin](https://github.com/JVRC03/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JVRC03/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
