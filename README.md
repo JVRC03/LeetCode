@@ -1747,6 +1747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/JVRC03/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1514-path-with-maximum-probability](https://github.com/JVRC03/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/JVRC03/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JVRC03/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/JVRC03/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
