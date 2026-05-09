@@ -1047,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/JVRC03/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0876-middle-of-the-linked-list](https://github.com/JVRC03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/JVRC03/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/JVRC03/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/JVRC03/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/JVRC03/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/JVRC03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1797-design-authentication-manager](https://github.com/JVRC03/LeetCode/tree/master/1797-design-authentication-manager) |
