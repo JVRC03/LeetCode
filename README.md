@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JVRC03/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JVRC03/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1903-largest-odd-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/JVRC03/LeetCode/tree/master/1952-three-divisors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/JVRC03/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/JVRC03/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/1975-maximum-matrix-sum) |
