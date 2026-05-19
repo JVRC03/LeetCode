@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/JVRC03/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/JVRC03/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JVRC03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/JVRC03/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1082,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JVRC03/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2664-maximize-greatness-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
