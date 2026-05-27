@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/JVRC03/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/JVRC03/LeetCode/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JVRC03/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/JVRC03/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/JVRC03/LeetCode/tree/master/3143-maximum-points-inside-the-square) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JVRC03/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JVRC03/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
