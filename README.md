@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/JVRC03/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JVRC03/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/JVRC03/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/JVRC03/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/JVRC03/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JVRC03/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JVRC03/LeetCode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
