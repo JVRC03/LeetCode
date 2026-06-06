@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2574-left-and-right-sum-differences](https://github.com/JVRC03/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JVRC03/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-intervals-between-identical-elements](https://github.com/JVRC03/LeetCode/tree/master/2240-intervals-between-identical-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/JVRC03/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2529-range-product-queries-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/JVRC03/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/JVRC03/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2615-sum-of-distances) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
