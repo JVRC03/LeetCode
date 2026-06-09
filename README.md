@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-minimum-time-to-activate-string](https://github.com/JVRC03/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JVRC03/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JVRC03/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JVRC03/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/JVRC03/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JVRC03/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JVRC03/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
