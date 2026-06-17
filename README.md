@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/JVRC03/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JVRC03/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/JVRC03/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/JVRC03/LeetCode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2055-plates-between-candles](https://github.com/JVRC03/LeetCode/tree/master/2055-plates-between-candles) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/JVRC03/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
