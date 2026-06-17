@@ -1562,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/JVRC03/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/JVRC03/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1890-the-latest-login-in-2020](https://github.com/JVRC03/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [3782-find-valid-emails](https://github.com/JVRC03/LeetCode/tree/master/3782-find-valid-emails) |
 ## Breadth-First Search
 |  |
