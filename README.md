@@ -1561,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/JVRC03/LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/JVRC03/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/JVRC03/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/JVRC03/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/JVRC03/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/1670-patients-with-a-condition) |
