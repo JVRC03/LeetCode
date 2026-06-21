@@ -1571,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/JVRC03/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/JVRC03/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/JVRC03/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1484-group-sold-products-by-the-date](https://github.com/JVRC03/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/JVRC03/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1664-find-users-with-valid-e-mails](https://github.com/JVRC03/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/1670-patients-with-a-condition) |
