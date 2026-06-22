@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/JVRC03/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JVRC03/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-occurrences-after-bigram](https://github.com/JVRC03/LeetCode/tree/master/1078-occurrences-after-bigram) |
+| [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0829-subdomain-visit-count](https://github.com/JVRC03/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JVRC03/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/JVRC03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1400-construct-k-palindrome-strings](https://github.com/JVRC03/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
