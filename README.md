@@ -1582,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/JVRC03/LeetCode/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/JVRC03/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/JVRC03/LeetCode/tree/master/1587-bank-account-summary-ii) |
+| [1661-average-time-of-process-per-machine](https://github.com/JVRC03/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1664-find-users-with-valid-e-mails](https://github.com/JVRC03/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/JVRC03/LeetCode/tree/master/1693-daily-leads-and-partners) |
