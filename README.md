@@ -1587,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/JVRC03/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/JVRC03/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/JVRC03/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/JVRC03/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/JVRC03/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/JVRC03/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JVRC03/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
