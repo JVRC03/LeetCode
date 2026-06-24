@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1200-minimum-absolute-difference](https://github.com/JVRC03/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/JVRC03/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/JVRC03/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
