@@ -1600,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/JVRC03/LeetCode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/JVRC03/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JVRC03/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/JVRC03/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/JVRC03/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/JVRC03/LeetCode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3782-find-valid-emails](https://github.com/JVRC03/LeetCode/tree/master/3782-find-valid-emails) |
