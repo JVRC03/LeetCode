@@ -1576,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/JVRC03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -1662,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/JVRC03/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/JVRC03/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JVRC03/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -1899,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/JVRC03/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JVRC03/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JVRC03/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/JVRC03/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/JVRC03/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JVRC03/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JVRC03/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JVRC03/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Doubly-Linked List
