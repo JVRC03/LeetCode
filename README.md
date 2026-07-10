@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2278-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
