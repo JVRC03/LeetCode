@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/JVRC03/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/JVRC03/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JVRC03/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/JVRC03/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JVRC03/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0636-exclusive-time-of-functions](https://github.com/JVRC03/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/JVRC03/LeetCode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1867,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JVRC03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/JVRC03/LeetCode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/JVRC03/LeetCode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/JVRC03/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Game Theory
