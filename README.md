@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JVRC03/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/JVRC03/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1400-construct-k-palindrome-strings](https://github.com/JVRC03/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JVRC03/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JVRC03/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
