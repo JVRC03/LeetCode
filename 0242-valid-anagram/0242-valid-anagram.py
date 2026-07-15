@@ -1,39 +1,18 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        a, b = {}, {}
+        if len(s) != len(t):
+            return False
+
+        a, b = [0] * 26, [0] * 26
 
         for i in range(len(s)):
-            if s[i] not in a:
-                a[s[i]] = 1
-            else:
-                a[s[i]] += 1
+            a[ord(s[i]) % 97] += 1
+            b[ord(t[i]) % 97] += 1
         
-        for i in range(len(t)):
-            if t[i] not in b:
-                b[t[i]] = 1
-            else:
-                b[t[i]] += 1
-        
-        if len(a) != len(b):
-            return False
-        
-        while len(a):
-            ele = -1
-
-            for i in a:
-                ele = i
-                break
-            
-            if ele not in b:
+        for i in range(len(a)):
+            if a[i] != b[i]:
                 return False
             
-            if b[ele] != a[ele]:
-                return False
-            
-            del a[ele]
-        
         return True
-            
-            
-                 
+
         
