@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JVRC03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JVRC03/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JVRC03/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JVRC03/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1514,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-most-frequent-prime](https://github.com/JVRC03/LeetCode/tree/master/3314-most-frequent-prime) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JVRC03/LeetCode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JVRC03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 ## Geometry
