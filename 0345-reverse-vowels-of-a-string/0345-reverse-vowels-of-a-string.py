@@ -1,23 +1,21 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        jvrc = list(s)
-        f, r = 0, len(s)-1
-        v = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}
+        vowels = {'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'}
+
+        arr = list(s)
+        f, r = 0, len(s) - 1
 
         while f < r:
-            if jvrc[f] in v and jvrc[r] in v:
-                jvrc[f], jvrc[r] = jvrc[r], jvrc[f]
+            if arr[f] in vowels and arr[r] in vowels:
+                arr[f], arr[r] = arr[r], arr[f]
                 f += 1
                 r -= 1
                 continue
             
-            if jvrc[f] in v:
+            if arr[f] in vowels:
                 r -= 1
-            elif jvrc[r] in v:
-                f += 1
             else:
                 f += 1
-                r -= 1
         
-        return ''.join(jvrc)
+        return ''.join(arr)
         
