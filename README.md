@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3833-count-dominant-indices](https://github.com/JVRC03/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JVRC03/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/JVRC03/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JVRC03/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/JVRC03/LeetCode/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/JVRC03/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/JVRC03/LeetCode/tree/master/3908-valid-digit-number) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3769-sort-integers-by-binary-reflection](https://github.com/JVRC03/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3819-count-covered-buildings](https://github.com/JVRC03/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JVRC03/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1356,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/JVRC03/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3905-partition-string](https://github.com/JVRC03/LeetCode/tree/master/3905-partition-string) |
 ## Counting
 |  |
@@ -1520,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JVRC03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 ## Geometry
 |  |
