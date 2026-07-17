@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JVRC03/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2478-longest-nice-subarray](https://github.com/JVRC03/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JVRC03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/JVRC03/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JVRC03/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/JVRC03/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
