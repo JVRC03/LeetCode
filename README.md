@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JVRC03/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/JVRC03/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3356-zero-array-transformation-ii](https://github.com/JVRC03/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3363-most-frequent-ids](https://github.com/JVRC03/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3379-transformed-array](https://github.com/JVRC03/LeetCode/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JVRC03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1102,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/JVRC03/LeetCode/tree/master/3143-maximum-points-inside-the-square) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3356-zero-array-transformation-ii](https://github.com/JVRC03/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3508-implement-router](https://github.com/JVRC03/LeetCode/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/JVRC03/LeetCode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3356-zero-array-transformation-ii](https://github.com/JVRC03/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JVRC03/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -1292,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JVRC03/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/JVRC03/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3356-zero-array-transformation-ii](https://github.com/JVRC03/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JVRC03/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
