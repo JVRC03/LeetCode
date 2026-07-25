@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/JVRC03/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/JVRC03/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JVRC03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/JVRC03/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3536-maximum-product-of-two-digits](https://github.com/JVRC03/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JVRC03/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/JVRC03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
