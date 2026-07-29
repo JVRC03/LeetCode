@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/JVRC03/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1923-sentence-similarity-iii](https://github.com/JVRC03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JVRC03/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1929-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/JVRC03/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/JVRC03/LeetCode/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JVRC03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/2058-concatenation-of-array) |
