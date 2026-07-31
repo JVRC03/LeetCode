@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2895-minimum-processing-time](https://github.com/JVRC03/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-maximum-points-inside-the-square](https://github.com/JVRC03/LeetCode/tree/master/3143-maximum-points-inside-the-square) |
 | [3202-high-access-employees](https://github.com/JVRC03/LeetCode/tree/master/3202-high-access-employees) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/JVRC03/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JVRC03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JVRC03/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2895-minimum-processing-time](https://github.com/JVRC03/LeetCode/tree/master/2895-minimum-processing-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JVRC03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/JVRC03/LeetCode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JVRC03/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1410,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/JVRC03/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JVRC03/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JVRC03/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/JVRC03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
