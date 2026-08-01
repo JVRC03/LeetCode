@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JVRC03/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/JVRC03/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JVRC03/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/JVRC03/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1803-average-waiting-time](https://github.com/JVRC03/LeetCode/tree/master/1803-average-waiting-time) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1797-design-authentication-manager](https://github.com/JVRC03/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/JVRC03/LeetCode/tree/master/1830-count-good-meals) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JVRC03/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/JVRC03/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1412,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/JVRC03/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/JVRC03/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
