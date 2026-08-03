@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/JVRC03/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JVRC03/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JVRC03/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/JVRC03/LeetCode/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/JVRC03/LeetCode/tree/master/0796-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
