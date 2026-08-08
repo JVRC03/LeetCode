@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/JVRC03/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/JVRC03/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JVRC03/LeetCode/tree/master/0342-power-of-four) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/JVRC03/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/JVRC03/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/JVRC03/LeetCode/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/JVRC03/LeetCode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/JVRC03/LeetCode/tree/master/0344-reverse-string) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JVRC03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/JVRC03/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JVRC03/LeetCode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/JVRC03/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/JVRC03/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -1596,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/JVRC03/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JVRC03/LeetCode/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1984,6 +1988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2063,4 +2068,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
