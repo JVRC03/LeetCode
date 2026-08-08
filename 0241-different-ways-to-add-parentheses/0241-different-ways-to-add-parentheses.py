@@ -48,8 +48,7 @@ class Solution:
         
         if len(temp):
             arr.append(temp)
-    
-
+        
         func(0, len(arr) - 1, arr)
         if len(self.jvrc) == 0:
             return [int(s)]
