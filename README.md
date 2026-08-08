@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/JVRC03/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/JVRC03/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JVRC03/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
