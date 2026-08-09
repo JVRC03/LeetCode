@@ -1,6 +1,7 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         dp = []
+
         for i in range(len(s) + 1):
             temp = [0] * (len(t) + 1)
             dp.append(temp)
