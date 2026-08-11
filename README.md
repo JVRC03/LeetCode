@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/JVRC03/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JVRC03/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JVRC03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/JVRC03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JVRC03/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JVRC03/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JVRC03/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/JVRC03/LeetCode/tree/master/0217-contains-duplicate) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/JVRC03/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/JVRC03/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/JVRC03/LeetCode/tree/master/0242-valid-anagram) |
@@ -1517,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/JVRC03/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JVRC03/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JVRC03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/JVRC03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/JVRC03/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JVRC03/LeetCode/tree/master/0213-house-robber-ii) |
@@ -1551,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0820-short-encoding-of-words](https://github.com/JVRC03/LeetCode/tree/master/0820-short-encoding-of-words) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JVRC03/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -2002,6 +2007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Merge Sort
 |  |
@@ -2087,4 +2093,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
