@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1183-statistics-from-a-large-sample](https://github.com/JVRC03/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1200-minimum-absolute-difference](https://github.com/JVRC03/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/JVRC03/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/JVRC03/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/JVRC03/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -1536,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/JVRC03/LeetCode/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/JVRC03/LeetCode/tree/master/1035-uncrossed-lines) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
