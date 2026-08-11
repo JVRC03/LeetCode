@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/JVRC03/LeetCode/tree/master/0851-loud-and-rich) |
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [0891-score-after-flipping-matrix](https://github.com/JVRC03/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0896-monotonic-array](https://github.com/JVRC03/LeetCode/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/JVRC03/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/JVRC03/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/JVRC03/LeetCode/tree/master/0788-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/JVRC03/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/JVRC03/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/JVRC03/LeetCode/tree/master/0944-smallest-range-i) |
 | [1103-moving-stones-until-consecutive](https://github.com/JVRC03/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
@@ -1540,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/JVRC03/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/JVRC03/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/JVRC03/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -1984,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
@@ -2097,4 +2101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
