@@ -1,15 +1,21 @@
 class Solution:
     def minFallingPathSum(self, mat: List[List[int]]) -> int:
+        dp = mat[-1]
 
-        for i in range(len(mat)-2, -1, -1):
+        for i in range(len(mat) - 2, -1, -1):
+            curr = []
             for j in range(len(mat[i])):
-                a, b, c = float('inf'), mat[i+1][j], float('inf')
+                a, b, c = float('inf'), dp[j], float('inf')
 
-                if j-1 >= 0:
-                    a = mat[i+1][j-1]
-                if j+1 < len(mat[i]):
-                    c = mat[i+1][j+1]
+                if j - 1 >= 0:
+                    a = dp[j - 1]
+                if j + 1 < len(mat[i]):
+                    c = dp[j + 1]
                 
-                mat[i][j] += min(a, b, c) 
+                curr.append(mat[i][j] + min(a, b, c))
+            
+            dp = curr
+    
+        return min(dp)
+
         
-        return min(mat[0])
