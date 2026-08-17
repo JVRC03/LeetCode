@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/JVRC03/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JVRC03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JVRC03/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JVRC03/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JVRC03/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/JVRC03/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/JVRC03/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JVRC03/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JVRC03/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -1457,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/JVRC03/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1983-maximum-population-year](https://github.com/JVRC03/LeetCode/tree/master/1983-maximum-population-year) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-intersection-of-multiple-arrays](https://github.com/JVRC03/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
