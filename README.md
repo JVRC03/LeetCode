@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/JVRC03/LeetCode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/JVRC03/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/JVRC03/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/JVRC03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/JVRC03/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -1825,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/JVRC03/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/JVRC03/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0816-ambiguous-coordinates](https://github.com/JVRC03/LeetCode/tree/master/0816-ambiguous-coordinates) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JVRC03/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JVRC03/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -2129,9 +2132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
