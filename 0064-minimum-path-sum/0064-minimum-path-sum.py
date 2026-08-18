@@ -1,32 +1,24 @@
 class Solution:
     def minPathSum(self, mat: List[List[int]]) -> int:
         dp = []
-
         for i in range(len(mat)):
-            temp = [-1] * len(mat[0])
-            dp.append(temp)
+            dp.append([-1] * len(mat[0]))
         
-        def func(mat, i, j):
+        def func(i, j, mat):
             if i >= len(mat) or j >= len(mat[0]):
                 return float('inf')
 
-            if i == len(mat)-1 and j == len(mat[0])-1:
-                dp[i][j] = mat[i][j]
+            if i == len(mat) - 1 and j == len(mat[0]) - 1:
                 return mat[i][j]
 
             if dp[i][j] != -1:
                 return dp[i][j]
-
-            right = func(mat, i, j+1)
-            down = func(mat, i+1, j)
+            
+            right = func(i, j + 1, mat)
+            down = func(i + 1, j, mat)
 
             dp[i][j] = mat[i][j] + min(right, down)
-
             return dp[i][j]
-        
-        return func(mat, 0, 0)
 
-
-
-
+        return func(0, 0, mat)
         
