@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JVRC03/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/JVRC03/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JVRC03/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JVRC03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JVRC03/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -1434,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2662-check-knight-tour-configuration](https://github.com/JVRC03/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JVRC03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/JVRC03/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
