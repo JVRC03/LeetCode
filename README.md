@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JVRC03/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JVRC03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JVRC03/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/JVRC03/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JVRC03/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JVRC03/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
