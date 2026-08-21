@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/JVRC03/LeetCode/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JVRC03/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-sliding-subarray-beauty](https://github.com/JVRC03/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JVRC03/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JVRC03/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2784-check-if-array-is-good](https://github.com/JVRC03/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -1594,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JVRC03/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/JVRC03/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JVRC03/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JVRC03/LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2826-sorting-three-groups](https://github.com/JVRC03/LeetCode/tree/master/2826-sorting-three-groups) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JVRC03/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
