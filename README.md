@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JVRC03/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JVRC03/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JVRC03/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JVRC03/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/JVRC03/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/JVRC03/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/JVRC03/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1605,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JVRC03/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/JVRC03/LeetCode/tree/master/1952-three-divisors) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/JVRC03/LeetCode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JVRC03/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/JVRC03/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/JVRC03/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2339-k-divisible-elements-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
