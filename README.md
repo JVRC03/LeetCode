@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JVRC03/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/JVRC03/LeetCode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/JVRC03/LeetCode/tree/master/0457-circular-array-loop) |
+| [0474-ones-and-zeroes](https://github.com/JVRC03/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/JVRC03/LeetCode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/JVRC03/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0493-reverse-pairs](https://github.com/JVRC03/LeetCode/tree/master/0493-reverse-pairs) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/JVRC03/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/JVRC03/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/JVRC03/LeetCode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/JVRC03/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/JVRC03/LeetCode/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/JVRC03/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/JVRC03/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/JVRC03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/JVRC03/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
@@ -2144,6 +2147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/JVRC03/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JVRC03/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -2153,5 +2157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/JVRC03/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/JVRC03/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
