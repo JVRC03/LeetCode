@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/JVRC03/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
 | [1035-uncrossed-lines](https://github.com/JVRC03/LeetCode/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/JVRC03/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JVRC03/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1577,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/JVRC03/LeetCode/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
