@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/JVRC03/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/JVRC03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/JVRC03/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2826-sorting-three-groups](https://github.com/JVRC03/LeetCode/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/JVRC03/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JVRC03/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2826-sorting-three-groups](https://github.com/JVRC03/LeetCode/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JVRC03/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/JVRC03/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2826-sorting-three-groups](https://github.com/JVRC03/LeetCode/tree/master/2826-sorting-three-groups) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JVRC03/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
