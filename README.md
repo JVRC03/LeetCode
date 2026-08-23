@@ -1590,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/JVRC03/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/JVRC03/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0935-knight-dialer](https://github.com/JVRC03/LeetCode/tree/master/0935-knight-dialer) |
 | [1035-uncrossed-lines](https://github.com/JVRC03/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
