@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
 | [1288-remove-covered-intervals](https://github.com/JVRC03/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JVRC03/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JVRC03/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1600,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/JVRC03/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
