@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JVRC03/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/JVRC03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/JVRC03/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/JVRC03/LeetCode/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JVRC03/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/JVRC03/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/JVRC03/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/JVRC03/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JVRC03/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/JVRC03/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/JVRC03/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/JVRC03/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1364,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/JVRC03/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0813-largest-sum-of-averages](https://github.com/JVRC03/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0966-binary-subarrays-with-sum](https://github.com/JVRC03/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/JVRC03/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/JVRC03/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
