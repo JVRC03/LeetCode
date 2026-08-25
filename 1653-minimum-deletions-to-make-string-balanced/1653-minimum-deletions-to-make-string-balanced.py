@@ -1,30 +1,29 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        arr = [s[0]]
-
-        def func(arr):
-            f, r = 0, len(arr) - 1
-            idx = -1
+        
+        stack = []
+        def check(a):
+            f, r = 0, len(stack) - 1
+            ans = -1
 
             while f <= r:
                 mid = f + ((r - f) // 2)
 
-                if arr[mid] == 'a':
+                if stack[mid] <= a:
                     f = mid + 1
                 else:
+                    ans = mid
                     r = mid - 1
-                    idx = mid
-
-            return idx
             
-        for i in range(1, len(s)):
-            if arr[-1] == 'a':
-                arr.append(s[i])
+            return ans
+
+        for i in range(len(s)):
+            val = check(s[i])
+
+            if val == -1:
+                stack.append(s[i])
             else:
-                if s[i] == 'b':
-                    arr.append(s[i])
-                else:
-                    val = func(arr)
-                    arr[val] = 'a'
+                stack[val] = s[i]
+    
+        return len(s) - len(stack)
         
-        return len(s) - len(arr)
