@@ -17,13 +17,24 @@ class Solution:
             
             return ans
 
+        f = -1
         for i in range(len(s)):
-            val = check(s[i])
-
-            if val == -1:
+            if len(stack) == 0:
+                if s[i] == 'b':
+                    f = i
                 stack.append(s[i])
-            else:
-                stack[val] = s[i]
-    
+                continue
+            
+            if stack[-1] == 'a':
+                stack.append(s[i])
+                if s[i] == 'b':
+                    f = len(stack)-1
+            else: 
+                if s[i] == 'b':
+                    stack.append(s[i])
+                else: 
+                    stack[f] = 'a'
+                    f += 1
+
         return len(s) - len(stack)
         
