@@ -15,10 +15,10 @@ class Solution:
                 else:
                     f = mid + 1
             else:
-                if k < nums[f]:
-                    r = mid - 1
-                else:
+                if nums[mid] <= k <= nums[r]:
                     f = mid + 1
+                else:
+                    r = mid - 1
 
         return -1
         
