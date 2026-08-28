@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JVRC03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/JVRC03/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JVRC03/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/JVRC03/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2017-grid-game](https://github.com/JVRC03/LeetCode/tree/master/2017-grid-game) |
 | [2028-find-missing-observations](https://github.com/JVRC03/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JVRC03/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
