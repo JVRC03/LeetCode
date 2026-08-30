@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/JVRC03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/JVRC03/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/JVRC03/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/JVRC03/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -1575,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/JVRC03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/JVRC03/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/JVRC03/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/JVRC03/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JVRC03/LeetCode/tree/master/0120-triangle) |
