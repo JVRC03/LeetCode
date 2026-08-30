@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JVRC03/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/JVRC03/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/JVRC03/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/JVRC03/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JVRC03/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
