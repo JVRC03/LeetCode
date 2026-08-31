@@ -8,17 +8,16 @@ class Solution:
 
             if nums[mid] == k:
                 return mid
-        
-            if nums[f] <= nums[mid]:
-                if nums[f] <= k <= nums[mid]:
-                    r = mid - 1
-                else:
-                    f = mid + 1
-            else:
+
+            if nums[mid] <= nums[r]:
                 if nums[mid] <= k <= nums[r]:
                     f = mid + 1
                 else:
                     r = mid - 1
-
-        return -1
+            else:
+                if nums[f] <= k <= nums[mid]:
+                    r = mid - 1
+                else:
+                    f = mid + 1
         
+        return -1
