@@ -1719,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JVRC03/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1797-design-authentication-manager](https://github.com/JVRC03/LeetCode/tree/master/1797-design-authentication-manager) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JVRC03/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JVRC03/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JVRC03/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
