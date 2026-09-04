@@ -1,19 +1,21 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
-        p_sum = [nums[-1]]
+        a, b = [], []
+        aa, bb = -1, float('inf')
 
-        for i in range(len(nums)-2, -1, -1):
-            p_sum.append(min(nums[i], p_sum[-1]))
-        p_sum = p_sum[::-1]
-        
-        curr = 0
         for i in range(len(nums)):
-            curr = max(curr, nums[i])
+            aa = max(aa, nums[i])
+            a.append(aa)
 
-            diff = curr - p_sum[i]
+            bb = min(bb, nums[len(nums) - i - 1])
+            b.append(bb)
+        
+        b = b[::-1]
 
-            if diff <= k:
+        for i in range(len(nums)):
+            if a[i] - b[i] <= k:
                 return i
 
         return -1
+
         
