@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-transform-array-to-all-equal-elements](https://github.com/JVRC03/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JVRC03/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JVRC03/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/JVRC03/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
@@ -1424,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JVRC03/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/JVRC03/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/JVRC03/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Rolling Hash
 |  |
 | ------- |
