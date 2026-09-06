@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JVRC03/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/JVRC03/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/JVRC03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/JVRC03/LeetCode/tree/master/0072-edit-distance) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JVRC03/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/JVRC03/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/JVRC03/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JVRC03/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JVRC03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JVRC03/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/JVRC03/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/JVRC03/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JVRC03/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/JVRC03/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -1715,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/JVRC03/LeetCode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/JVRC03/LeetCode/tree/master/0326-power-of-three) |
