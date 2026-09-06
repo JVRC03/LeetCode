@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JVRC03/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1321-get-equal-substrings-within-budget](https://github.com/JVRC03/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JVRC03/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JVRC03/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1643,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
