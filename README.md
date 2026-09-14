@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/JVRC03/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JVRC03/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JVRC03/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JVRC03/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JVRC03/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JVRC03/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/JVRC03/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JVRC03/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1818-minimum-absolute-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/JVRC03/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JVRC03/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/JVRC03/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1626-best-team-with-no-conflicts](https://github.com/JVRC03/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/JVRC03/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -2234,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/JVRC03/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 ## Bracket Sequences
 |  |
 | ------- |
