@@ -1000,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/JVRC03/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/JVRC03/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JVRC03/LeetCode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
