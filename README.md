@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/JVRC03/LeetCode/tree/master/0934-shortest-bridge) |
 | [0940-fruit-into-baskets](https://github.com/JVRC03/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/JVRC03/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0944-smallest-range-i](https://github.com/JVRC03/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-bag-of-tokens](https://github.com/JVRC03/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JVRC03/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
