@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JVRC03/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JVRC03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/JVRC03/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/JVRC03/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/JVRC03/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/JVRC03/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/JVRC03/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/JVRC03/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/JVRC03/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1896,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JVRC03/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/JVRC03/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/JVRC03/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/JVRC03/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JVRC03/LeetCode/tree/master/0207-course-schedule) |
@@ -2289,4 +2292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/JVRC03/LeetCode/tree/master/0052-n-queens-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/JVRC03/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
