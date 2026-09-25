@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JVRC03/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JVRC03/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-maximum-matrix-sum](https://github.com/JVRC03/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JVRC03/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JVRC03/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/JVRC03/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JVRC03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JVRC03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JVRC03/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JVRC03/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/JVRC03/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/JVRC03/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JVRC03/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/JVRC03/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/JVRC03/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/JVRC03/LeetCode/tree/master/2055-plates-between-candles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JVRC03/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JVRC03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/JVRC03/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JVRC03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
