@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/JVRC03/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/JVRC03/LeetCode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/JVRC03/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1238-alphabet-board-path](https://github.com/JVRC03/LeetCode/tree/master/1238-alphabet-board-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JVRC03/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JVRC03/LeetCode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/JVRC03/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1002-maximum-width-ramp](https://github.com/JVRC03/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JVRC03/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JVRC03/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2281,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JVRC03/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
