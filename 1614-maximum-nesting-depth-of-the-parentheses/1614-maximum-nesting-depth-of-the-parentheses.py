@@ -1,15 +1,14 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        count, jvrc = 0, 0
+        jvrc, curr = 0, 0
 
         for i in range(len(s)):
             if s[i] == '(':
-                count += 1
-                jvrc = max(jvrc, count)
+                curr += 1
             elif s[i] == ')':
-                count -= 1
-            else:
-                continue
-        
+                curr -= 1
+            
+            jvrc = max(jvrc, curr)
+
         return jvrc
         
