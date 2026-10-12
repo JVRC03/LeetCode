@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/JVRC03/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1816-truncate-sentence](https://github.com/JVRC03/LeetCode/tree/master/1816-truncate-sentence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/JVRC03/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1830-count-good-meals](https://github.com/JVRC03/LeetCode/tree/master/1830-count-good-meals) |
 | [1833-maximum-ice-cream-bars](https://github.com/JVRC03/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/JVRC03/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/JVRC03/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/JVRC03/LeetCode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JVRC03/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/JVRC03/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/JVRC03/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JVRC03/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/JVRC03/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
