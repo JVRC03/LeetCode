@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JVRC03/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JVRC03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JVRC03/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JVRC03/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JVRC03/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JVRC03/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JVRC03/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-reach-end-of-array-with-max-score](https://github.com/JVRC03/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JVRC03/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JVRC03/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JVRC03/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3779-eat-pizzas](https://github.com/JVRC03/LeetCode/tree/master/3779-eat-pizzas) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/JVRC03/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
