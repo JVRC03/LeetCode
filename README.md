@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/JVRC03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2895-minimum-processing-time](https://github.com/JVRC03/LeetCode/tree/master/2895-minimum-processing-time) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JVRC03/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/JVRC03/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/JVRC03/LeetCode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/JVRC03/LeetCode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/JVRC03/LeetCode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JVRC03/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JVRC03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JVRC03/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/JVRC03/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -2018,6 +2020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/JVRC03/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JVRC03/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/JVRC03/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JVRC03/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JVRC03/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -2039,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/JVRC03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/JVRC03/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JVRC03/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Probability and Statistics
 |  |
 | ------- |
