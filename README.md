@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/JVRC03/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JVRC03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JVRC03/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JVRC03/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-shift-distance-between-two-strings](https://github.com/JVRC03/LeetCode/tree/master/3591-shift-distance-between-two-strings) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JVRC03/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/JVRC03/LeetCode/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JVRC03/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JVRC03/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JVRC03/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JVRC03/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/JVRC03/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/JVRC03/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JVRC03/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/JVRC03/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JVRC03/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JVRC03/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JVRC03/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/JVRC03/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
