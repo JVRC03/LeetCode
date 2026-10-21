@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/JVRC03/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/JVRC03/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JVRC03/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2651-calculate-delayed-arrival-time](https://github.com/JVRC03/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JVRC03/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/JVRC03/LeetCode/tree/master/2716-prime-subtraction-operation) |
