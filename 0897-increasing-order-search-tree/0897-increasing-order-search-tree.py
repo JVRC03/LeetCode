@@ -5,30 +5,26 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.jvrc = None
-        self.temp = None
-    
-    def dfs(self, root):
-        if root is None:
-            return 
-        
-        self.dfs(root.left)
-        node = TreeNode()
-        node.val = root.val
+    def increasingBST(self, root: TreeNode | None) -> TreeNode | None:
+        self.real = None
+        self.temp = self.real
 
-        if self.jvrc == None:
-            self.jvrc = node
-            self.temp = node
-        else:
-            self.temp.right = node
-            self.temp = node
-        
-        self.dfs(root.right)
+        def dfs(root):
+            if root is None:
+                return 
+            
+            dfs(root.left)
 
-    def increasingBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        self.dfs(root)
+            if self.temp is not None:
+                self.temp.right = TreeNode(root.val)
+                self.temp = self.temp.right
+            else:
+                self.real = TreeNode(root.val)
+                self.temp = self.real
 
-        return self.jvrc
+            dfs(root.right)
+
+        dfs(root)
+        return self.real
 
         
