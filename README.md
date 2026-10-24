@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/JVRC03/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/JVRC03/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
+| [2409-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/JVRC03/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JVRC03/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JVRC03/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JVRC03/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/JVRC03/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2496-count-days-spent-together](https://github.com/JVRC03/LeetCode/tree/master/2496-count-days-spent-together) |
