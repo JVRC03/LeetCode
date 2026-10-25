@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JVRC03/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JVRC03/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1254-number-of-closed-islands](https://github.com/JVRC03/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1272-invalid-transactions](https://github.com/JVRC03/LeetCode/tree/master/1272-invalid-transactions) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1284-four-divisors](https://github.com/JVRC03/LeetCode/tree/master/1284-four-divisors) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/JVRC03/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1254-number-of-closed-islands](https://github.com/JVRC03/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JVRC03/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/JVRC03/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JVRC03/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1886,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/JVRC03/LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/JVRC03/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/JVRC03/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1979,6 +1982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/JVRC03/LeetCode/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JVRC03/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JVRC03/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/JVRC03/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/JVRC03/LeetCode/tree/master/1306-jump-game-iii) |
 | [1308-smallest-string-with-swaps](https://github.com/JVRC03/LeetCode/tree/master/1308-smallest-string-with-swaps) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/JVRC03/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -2249,6 +2253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/JVRC03/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/JVRC03/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/JVRC03/LeetCode/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/JVRC03/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JVRC03/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JVRC03/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/JVRC03/LeetCode/tree/master/1905-count-sub-islands) |
