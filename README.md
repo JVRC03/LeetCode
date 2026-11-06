@@ -1119,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JVRC03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/JVRC03/LeetCode/tree/master/3905-partition-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/JVRC03/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
+| [4030-check-ascii-palindromic](https://github.com/JVRC03/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Greedy
 |  |
 | ------- |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/JVRC03/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/JVRC03/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4030-check-ascii-palindromic](https://github.com/JVRC03/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1477,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JVRC03/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JVRC03/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JVRC03/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4030-check-ascii-palindromic](https://github.com/JVRC03/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Queue
 |  |
 | ------- |
