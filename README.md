@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-maximum-xor-after-operations](https://github.com/JVRC03/LeetCode/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JVRC03/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/JVRC03/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/JVRC03/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JVRC03/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2478-longest-nice-subarray](https://github.com/JVRC03/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/JVRC03/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JVRC03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/JVRC03/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2424-longest-uploaded-prefix](https://github.com/JVRC03/LeetCode/tree/master/2424-longest-uploaded-prefix) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/JVRC03/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2548-destroy-sequential-targets](https://github.com/JVRC03/LeetCode/tree/master/2548-destroy-sequential-targets) |
 | [2564-substring-xor-queries](https://github.com/JVRC03/LeetCode/tree/master/2564-substring-xor-queries) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/JVRC03/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JVRC03/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/JVRC03/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/JVRC03/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/JVRC03/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JVRC03/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JVRC03/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JVRC03/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/JVRC03/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JVRC03/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/JVRC03/LeetCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/JVRC03/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
