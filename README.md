@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/JVRC03/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/JVRC03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/JVRC03/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/JVRC03/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3665-twisted-mirror-path-count](https://github.com/JVRC03/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/JVRC03/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/JVRC03/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Sorting
 |  |
 | ------- |
@@ -1615,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JVRC03/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3905-partition-string](https://github.com/JVRC03/LeetCode/tree/master/3905-partition-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/JVRC03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/JVRC03/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Counting
 |  |
 | ------- |
