@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/JVRC03/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JVRC03/LeetCode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/JVRC03/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JVRC03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JVRC03/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JVRC03/LeetCode/tree/master/0242-valid-anagram) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JVRC03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JVRC03/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JVRC03/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/JVRC03/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/JVRC03/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/JVRC03/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JVRC03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JVRC03/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/JVRC03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/JVRC03/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/JVRC03/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/JVRC03/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JVRC03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JVRC03/LeetCode/tree/master/0392-is-subsequence) |
@@ -2410,4 +2413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JVRC03/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/JVRC03/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
