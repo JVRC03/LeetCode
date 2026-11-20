@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/JVRC03/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/JVRC03/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-split-array-by-prime-indices](https://github.com/JVRC03/LeetCode/tree/master/3936-split-array-by-prime-indices) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/JVRC03/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/JVRC03/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/JVRC03/LeetCode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JVRC03/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/JVRC03/LeetCode/tree/master/3905-partition-string) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/JVRC03/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
