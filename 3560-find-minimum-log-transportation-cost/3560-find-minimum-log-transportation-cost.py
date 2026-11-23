@@ -5,7 +5,6 @@ class Solution:
 
         if m > n:
             n, m = m, n
-
         if n > k:
             act = n
             n -= k
@@ -18,7 +17,4 @@ class Solution:
             jvrc += (temp * (r-temp))
         
         return jvrc
-
-
-        
         
