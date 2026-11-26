@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/JVRC03/LeetCode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JVRC03/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/JVRC03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/JVRC03/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JVRC03/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/JVRC03/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1619,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JVRC03/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/JVRC03/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/JVRC03/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/JVRC03/LeetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/JVRC03/LeetCode/tree/master/3379-transformed-array) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/JVRC03/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/JVRC03/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
